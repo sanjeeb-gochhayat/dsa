@@ -1,3 +1,4 @@
+//write a number that return the number of negative numbers in the array
 let countNegativeNums = (arr) => {
   let count = 0;
   for (let i = 0; i < arr.length; i++) {
